@@ -1,5 +1,4 @@
 {
-  "python-envs.defaultEnvManager": "ms-python.python:system",
   "python.analysis.aiCodeActions": {
     "implementAbstractClasses": true,
     "generateSymbol": true,
@@ -7,5 +6,6 @@
   },
   "python.analysis.typeCheckingMode": "standard",
   "python.analysis.diagnosticMode": "workspace",
-  "python.analysis.diagnosticsSource": "Pylance + Pyrefly"
+  "python.analysis.diagnosticsSource": "Pylance + Pyrefly",
+  "python-envs.defaultEnvManager": ""
 }
